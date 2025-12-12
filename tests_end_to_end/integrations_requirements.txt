@@ -10,3 +10,4 @@ llama_index
 llama-index-callbacks-opik
 langchain_openai
 ragas
+urllib3>=2.6.0 # not directly required, pinned by Snyk to avoid a vulnerability
