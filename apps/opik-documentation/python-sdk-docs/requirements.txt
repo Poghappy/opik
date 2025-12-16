@@ -16,3 +16,4 @@ haystack-ai
 langchain
 langchain_core
 llama_index
+tornado>=6.5.3 # not directly required, pinned by Snyk to avoid a vulnerability
