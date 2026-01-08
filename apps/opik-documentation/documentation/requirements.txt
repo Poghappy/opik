@@ -4,3 +4,4 @@ pytest-asyncio
 pytest-custom_exit_code
 -e ../../../sdks/opik_optimizer
 nltk
+urllib3>=2.6.3 # not directly required, pinned by Snyk to avoid a vulnerability
