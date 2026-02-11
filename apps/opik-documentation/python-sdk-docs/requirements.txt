@@ -16,3 +16,4 @@ haystack-ai
 langchain
 langchain_core
 llama_index
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
